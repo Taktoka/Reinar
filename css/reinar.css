@@ -304,7 +304,7 @@ a {
 }
 @media(max-width:576px){
  .footer h1{
-    fontsize:35px;
+    font-size:35px;
   }
 }
 .footer .btn {
