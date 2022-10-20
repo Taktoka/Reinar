@@ -8,10 +8,7 @@ body {
   line-height: 1.5;
   background-color: black;
 }
-/* .container-fluid {
-  padding-left: 25px;
-  padding-right: 25px;
-} */
+
 ul {
   list-style: none;
 }
@@ -133,7 +130,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.landing .container-fluid {
+.landing .container {
   position: relative;
   z-index: 2;
 }
