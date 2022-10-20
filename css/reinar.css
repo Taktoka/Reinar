@@ -8,10 +8,10 @@ body {
   line-height: 1.5;
   background-color: black;
 }
-.container-fluid {
+/* .container-fluid {
   padding-left: 25px;
   padding-right: 25px;
-}
+} */
 ul {
   list-style: none;
 }
