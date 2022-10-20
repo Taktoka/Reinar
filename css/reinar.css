@@ -241,6 +241,12 @@ a {
   opacity: 0.14;
   letter-spacing: 3px;
 }
+@media (max-width: 576px) {
+  .inner-pages .main-heading h2:after {
+    display: none;
+  }
+}
+
 .inner-pages .figure {
   transform: scale(0);
 }
@@ -298,6 +304,11 @@ a {
   font-size: 60px;
   letter-spacing: 3px;
   margin-top: 50px;
+}
+@media(max-width:576px){
+ .footer h1{
+    fontsize:35px;
+  }
 }
 .footer .btn {
   background-color: #f2d87c;
